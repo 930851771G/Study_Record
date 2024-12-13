@@ -12,4 +12,9 @@
 >
 > "Study_Record\Deep_Learning\Pytorch_code\RNN\rnn-scratch.ipynb"
 > 复现pytorch学习书籍里面，从零实现RNN的过程。
+>
+> 2024.12.13:
+> "Study_Record\Deep_Learning\笔记\RNN"
+> 把已经做过的RNN的笔记都添加进来了。
+> 视频[链接](https://www.bilibili.com/video/BV1eRqeY9EPY/?spm_id_from=333.999.0.0&vd_source=6665b230bfe546f54aebd357560da556)，里面有对于这一部分的一个粗略的解释。适合在忘记之后，如果想要快速回忆的时候观看。
 
